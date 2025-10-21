@@ -1,0 +1,8 @@
+{
+  "name": "diwali-for-arohi",
+  "version": "1.0.0",
+  "description": "A romantic Diwali website for Arohi",
+  "scripts": {
+    "start": "npx serve -s -l 3000"
+  }
+}
